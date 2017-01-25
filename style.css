@@ -1,12 +1,12 @@
-p{
+#para1{
 	background-color: blue;
 
 }
-p,p{
+#para2{
 	background-color: white;
 
 }
-p,p,p{
+#para3{
 	background-color: red;
 
 }

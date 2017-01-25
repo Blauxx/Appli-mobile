@@ -1,0 +1,12 @@
+p{
+	background-color: blue;
+
+}
+p,p{
+	background-color: white;
+
+}
+p,p,p{
+	background-color: red;
+
+}

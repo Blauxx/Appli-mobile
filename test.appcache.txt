@@ -1,2 +1,9 @@
+CACHE MANIFEST
+
 /img/calais.jpg
+/index.html
+
+
+
+FALLBACK
 /index.html

@@ -1,7 +1,10 @@
 CACHE MANIFEST
 
-/img/calais.jpg
-/index.html
+
+CACHE
+
+img/calais.jpg
+index.html
 
 
 

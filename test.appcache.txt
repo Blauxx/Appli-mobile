@@ -1,12 +1,11 @@
 CACHE MANIFEST
 
 
-CACHE
+CACHE :
 
 img/calais.jpg
 index.html
 
 
-
 FALLBACK
-/index.html
+index.html

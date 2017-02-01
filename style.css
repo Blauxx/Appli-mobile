@@ -15,6 +15,9 @@ p.para3{
 
 img {
     max-width: 100%;
+    display:none;
+    margin-left:auto;
+    margin-right: auto;
 }
 
 

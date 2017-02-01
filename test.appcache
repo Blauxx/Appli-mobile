@@ -1,8 +1,8 @@
-CACHE MANIFEST
+#CACHE MANIFEST
 
 
-CACHE:
-img/calais.jpg
+#CACHE:
+#img/calais.jpg
 
-style.css
-index.html
+#style.css
+#index.html

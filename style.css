@@ -1,3 +1,9 @@
+body{
+margin:0px;
+
+}
+
+
 p.para1{
 	background-color: blue;
 
@@ -13,4 +19,3 @@ p.para3{
 
 img, table, td, blockquote, code, pre, textarea, input, iframe, object, embed, video {
     max-width: 100%;
-}

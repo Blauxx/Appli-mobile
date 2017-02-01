@@ -22,6 +22,14 @@ img, table, td, blockquote, code, pre, textarea, input, iframe, object, embed, v
 }
 
 
-@media handheld (min-width: 320px) and (max-width: 480px) {
+@media (max-width: 480px) {
+ 
+ }
+
+ @media (max-width: 600px) {
+ 
+ }
+
+ @media (max-width: 700px) {
  
  }

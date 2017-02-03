@@ -13,7 +13,7 @@ p.para3{
 
 }
 
-img,table {
+img,table{
     max-width: 100%;
 	margin-left:auto;
     margin-right: auto;
@@ -24,14 +24,16 @@ img,table {
    
 
 }
-
+th{
+	background-color: grey;
+}
 table{
 	border:1px solid black;
 	text-align: center;	
 }
 td,th{
 	border:1px solid black;
-	display:inline;
+
 }
 td:hover{
 	border:1px solid black;
@@ -54,13 +56,23 @@ p{
 
 
 @media (max-width: 480px) {
- 	display:inline;
+ 			td,th{
+
+	 	display:block;
+ }
  }
 
  @media (max-width: 640px) {
- 	display:inline;
+ 		td,th{
+	 
+	 	display:block;
+ }
  }
 
  @media (max-width: 720px) {
- 	display:inline;
+ 	td,th{
+	 	
+	 	display:block;
+
+ }
  }

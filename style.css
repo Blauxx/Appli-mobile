@@ -1,6 +1,7 @@
 body{
 	background-image: url(img/bg.jpg);
 	background-size: cover;
+	color:white;
 
 }
 /*
@@ -36,16 +37,19 @@ th{
 table{
 	border:1px solid black;
 	text-align: center;	
+	background-color:black;
+	
+
 }
 td,th{
-	border:1px solid black;
+	border:1px solid white;
 
 }
-
 
 
 h1{
 	font-size: 8vw;
+	color:brown;
 }
 p{
 	font-size: 1rem;

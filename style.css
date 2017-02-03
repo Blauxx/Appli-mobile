@@ -53,13 +53,13 @@ p{
 
 
 @media (max-width: 480px) {
- 	display:inline;
+ 	display:inline-table;
  }
 
  @media (max-width: 640px) {
- 	display:inline;
+ 	display:inline-table;
  }
 
  @media (max-width: 720px) {
- 	display:inline;
+ 	display:inline-table;
  }

@@ -25,6 +25,22 @@ img {
 
 }
 
+table{
+	border:1px solid black;
+	text-align: center;	
+}
+td,th{
+	border:1px solid black;
+}
+td:hover{
+	border:1px solid black;
+	background-color:red;
+}
+th:hover{
+	border:1px solid black;
+	background-color:red;
+}
+
 h1{
 	font-size: 8vw;
 }

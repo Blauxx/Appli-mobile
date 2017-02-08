@@ -1,4 +1,66 @@
 #logo{
-	width:150px;
-	height:150px;
+	background-image: url(img/logo.jpg);
+		background-size: cover;
+	width:100px;
+	height:100px;
+	background-size: cover;
+	margin-top:auto;
+
+
+}
+.in{
+	width:1200px;
+	margin: auto;
+	background-color: black;
+	
+}
+
+body{
+	background-color: grey;
+}
+
+a{
+	display: inline-block;
+	position: auto;
+	color:white;
+
+
+}
+h1,h2,h3{
+	text-decoration: underline;
+}
+h1,h2,h3,p{
+
+	color:grey;
+	
+
+}
+p{
+	font-size: 16px;
+	text-align: justify;
+
+}
+
+#content{
+	
+}
+
+#menu {
+	margin-top:-78px;
+	margin-left:85%;
+	position: absolute;
+}
+#GrosHeader{
+	background-color:#1F2726;
+}
+
+#footer{
+	background-color:#1F2726;
+	height: 20px;
+	margin-top:10%;
+}
+#footer p{
+	font-style: italic;
+	margin-left: 90%;
+
 }
